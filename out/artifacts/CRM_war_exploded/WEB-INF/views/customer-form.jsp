@@ -18,7 +18,7 @@
     <br>
     <form:form action="saveCustomer" modelAttribute="customer" method="post">
 
-        <form:hidden path="id"/>    <!--This line is mandatory for updation-->
+        <form:hidden path="id"/> <!--This line is mandatory for updation-->
 
         <div class="table-responsive-lg">
             <table class="table table-borderless">

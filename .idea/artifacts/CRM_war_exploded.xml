@@ -44,6 +44,7 @@
           <element id="library" level="project" name="Maven: org.springframework:spring-expression:5.2.6.RELEASE" />
           <element id="library" level="project" name="Maven: org.springframework:spring-jcl:5.2.6.RELEASE" />
           <element id="library" level="project" name="Maven: org.springframework:spring-webmvc:5.2.6.RELEASE" />
+          <element id="library" level="project" name="Maven: org.aspectj:aspectjweaver:1.9.5" />
         </element>
       </element>
     </root>
